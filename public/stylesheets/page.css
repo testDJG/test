@@ -1,0 +1,16 @@
+.nav_item{
+    display: block;
+    float: left;
+    margin: 10;
+    border: outset;
+
+
+}
+.nav_items{
+    height: 32px;
+    display: block;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    margin-left: -8px;
+}

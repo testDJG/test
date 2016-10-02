@@ -19,6 +19,7 @@
   "devDependencies": {
     "browserstack-webdriver": "^2.41.1",
     "chai": "^3.5.0",
+    "phantomjs": "^2.1.7",
     "selenium-webdriver": "^3.0.0-beta-3"
   }
 }

@@ -2,3 +2,5 @@ node_modules/
 logs/
 .gauge/
 reports/
+homepage_withPO.js
+sl.js

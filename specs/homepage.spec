@@ -9,3 +9,7 @@ Scenario Heading
 ----------------
 * Open the page "http://localhost:3000"
 * Assert page title is "The Sport Of Testing..."
+* Assert navigation exists
+* Assert navigation item "1" exists and has text "Google" with link to "http://gogle.com/"
+* Assert navigation item "2" exists and has text "BBC" with link to "http://www.bbc.co.uk/"
+* Assert navigation item "3" exists and has text "BBC Sport" with link to "http://www.bbc.co.uk/sport"
